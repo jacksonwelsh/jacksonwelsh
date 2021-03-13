@@ -1,4 +1,22 @@
-### Hi there 👋
+## Hi, I'm Jackson.
+
+I make things. 
+
+I'm also a:
+
+* Student @ UNT
+* Software Engineer at New Light Technoligies (@NLTGit)
+  * There, I've worked on the [Geo4Dev initiative's new website](//geo4.dev).
+* Computer Science Tutor @ Wyzant
+  * (but I don't do much of that at the moment)
+
+Reach out if you have any questions!
+
+Website: [jacksonwel.sh](//jacksonwel.sh) (or [jacksonwelsh.net](//jacksonwelsh.net))  
+Twitter: [@\_jacksonwelsh](//twitter.com/_jacksonwelsh)  
+Linkedin: [/in/jacksonwelsh](//linkedin.com/in/jacksonwelsh)  
+Email: in the sidebar  
+GitHub: @jacksonwelsh, but why?
 
 <!--
 **jacksonwelsh/jacksonwelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
