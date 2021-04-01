@@ -5,7 +5,7 @@ I make things.
 I'm also a:
 
 * Student @ UNT
-* Software Engineer at New Light Technoligies ([@NLTGit](//github.com/NLTGit))
+* Software Engineer @ New Light Technoligies ([@NLTGit](//github.com/NLTGit))
   * There, I've worked on the [Geo4Dev initiative's new website](//geo4.dev).
 * Computer Science Tutor @ Wyzant
   * (but I don't do much of that at the moment)
