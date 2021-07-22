@@ -11,9 +11,11 @@ I'm also a:
   * And I'm overhauling the US Army Corps of Engineers' [USMART](https://usmart.usace.army.mil/) application, writing it in React with TypeScript. 
 
 
-I was a:
+Things I've done in the past:
 
-* Computer Science Tutor @ Wyzant
+* For about a year, I was a computer science tutor @ Wyzant, teaching students from middle school up to approx. 2000-level college courses.
+* I'm an Eagle Scout.
+* I formerly held a consulting role @ NLT, but am now an employee.
 
 Reach out if you have any questions!
 
