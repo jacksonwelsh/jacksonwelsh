@@ -5,6 +5,9 @@ I make things.
 I'm also a:
 
 * Student @ UNT
+  * Pursuing a B.S. in Computer Science. Shocking, I know.
+  * I have a 4.0 GPA.
+  * I'll probably be graduating in Spring 2023.
 * [Software Engineer](https://newlighttechnologies.com/staff/jackson-welsh/) @ New Light Technoligies ([@NLTGit](//github.com/NLTGit))
   * There, I was the lead developer of the [Geo4Dev initiative's new website](//geo4.dev).
   * I'm working on a web mapping application, written in Vue.js, for SpatialFocus's address management suite.
