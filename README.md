@@ -24,7 +24,6 @@ Things I've done in the past:
 Reach out if you have any questions!
 
 Website: [jacksonwel.sh](//jacksonwel.sh) (or [jacksonwelsh.net](//jacksonwelsh.net))  
-Twitter: [@\_jacksonwelsh](//twitter.com/_jacksonwelsh)  
 Linkedin: [/in/jacksonwelsh](//linkedin.com/in/jacksonwelsh)  
 Email: in the sidebar  
 GitHub: [@jacksonwelsh](//github.com/jacksonwelsh), but why?
