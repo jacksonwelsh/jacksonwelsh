@@ -1,34 +1,10 @@
 ## Hi, I'm Jackson.
 
-I make things. 
+I make things.
 
-I'm also a:
-
-* Student @ UNT
-  * Pursuing a B.S. in Computer Science.
-  * I have a 4.0 GPA.
-  * I'll be graduating in Spring 2023.
-* [Lead Solutions Engineer](https://newlighttechnologies.com/staff/jackson-welsh/) @ New Light Technoligies ([@NLTGit](//github.com/NLTGit))
-  * I do general project work - infrastructure, frontend, backend, you name it.
-  * I also design tools that help our devs work faster, including an internal component library and website generator.
-  * I worked on a web mapping application, written in Vue.js, for SpatialFocus's address management suite.
-  * And I helped overhaul the US Army Corps of Engineers' [USMART](https://usmart.usace.army.mil/) application, writing it in React with TypeScript. 
-
-
-Things I've done in the past:
-
-* For about a year, I was a computer science tutor @ Wyzant, teaching students from middle school up to approx. 2000-level college courses.
-* Summer 2022 SDE Intern @ AWS
-* I'm an Eagle Scout.
-* I formerly held a consulting role @ NLT, but am now an employee.
-
-Reach out if you have any questions!
-
-Website: [jacksonwel.sh](//jacksonwel.sh) (or [jacksonwelsh.net](//jacksonwelsh.net))  
-Linkedin: [/in/jacksonwelsh](//linkedin.com/in/jacksonwelsh)  
-Email: in the sidebar  
-GitHub: [@jacksonwelsh](//github.com/jacksonwelsh), but why?
-
+- [trying to start a blog](//jacksonwel.sh/blog)
+- eng @ amazon
+- :shipit:
 <!--
 **jacksonwelsh/jacksonwelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
